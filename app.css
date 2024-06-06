@@ -1,0 +1,19 @@
+#countlabel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+    font-size: 10em;
+}
+.container{
+    text-align:center;
+}
+.buttons{
+    
+    align-items: center;
+    background-color: aqua;
+    font-size: 2em;
+}
+.buttons:hover{
+    background-color: blanchedalmond;
+}
